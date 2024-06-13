@@ -1,4 +1,4 @@
 # demo
 this is trial repository
 <br>
-git is popular version control system.
+git is popular and free version control system.
